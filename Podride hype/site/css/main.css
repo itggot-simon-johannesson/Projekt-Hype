@@ -1,0 +1,44 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+nav {
+  background-color: blue;
+  height: 80px;
+  width: 70%;
+  margin-bottom: 20px;
+}
+
+header {
+  background-color: red;
+  height: 110px;
+  width: 70%;
+}
+
+.podride {
+  text-align: justify;
+}
+
+article {
+    display: flex;
+    flex-direction: column;
+}
+
+.box {
+  display: flex;
+  flex-direction: row;
+}
+
+.txt1 {
+
+}
+
+.png {
+
+}
+
+.txt2 {
+
+}
