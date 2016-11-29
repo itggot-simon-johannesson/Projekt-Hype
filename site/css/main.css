@@ -7,19 +7,21 @@ body {
 nav {
   background-color: blue;
   height: 80px;
-  width: 70%;
+  width: 60%;
   margin-bottom: 20px;
+  max-width:
 }
 
 header {
   height: 110px;
-  width: 70%;
+  width: 60%;
   margin-bottom: 20px;
 }
 
 .podride {
   font-size: 80px;
-  margin: auto;
+  text-align: center;
+
 }
 
 .color1, .color13{
@@ -74,7 +76,7 @@ article {
     display: flex;
     flex-direction: column;
     height: 500px;
-    width: 70%;
+    width: 60%;
 }
 
 .box {
